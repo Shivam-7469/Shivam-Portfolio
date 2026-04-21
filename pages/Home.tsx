@@ -309,7 +309,7 @@ const Home: React.FC = () => {
             <div className="relative w-[240px] md:w-[280px] aspect-[9/19] select-none">
               <img 
                 src="https://freepngimg.com/thumb/iphone/68616-apple-holding-iphone-hand-x-space-gray.png" 
-                alt="Hand holding phone"
+                alt=" "
                 className="absolute -right-20 -bottom-24 w-[160%] max-w-none pointer-events-none z-20 drop-shadow-2xl brightness-75 grayscale-[0.5]"
               />
               <div className="absolute inset-0 bg-black rounded-[2.5rem] border-[8px] border-neutral-800 shadow-2xl z-10 overflow-hidden ring-1 ring-white/10">
