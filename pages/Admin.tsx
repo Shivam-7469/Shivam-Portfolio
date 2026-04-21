@@ -4,7 +4,7 @@ import { Lock, Save, Plus, Trash2, Edit2, LogOut, Image, Youtube, Type, Mail, Ca
 import { useContent } from '../context/ContentContext';
 import { ProjectItem, ServiceItem, Photograph } from '../types';
 
-const ADMIN_PASSWORD = "password"; // Simple password for demo
+const ADMIN_PASSWORD = "pass02word"; // Simple password for demo
 
 const Admin: React.FC = () => {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
