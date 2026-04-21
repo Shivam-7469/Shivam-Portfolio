@@ -81,7 +81,7 @@ export const PROJECTS: ProjectItem[] = [
     id: 'p6',
     title: 'If Olympic Did not Ban Drugs ',
     category: 'YouTUbe Shorts',
-    imageUrl: 'https://im.ge/i/end-frame-eB8MPF',
+    imageUrl: 'https://i.im.ge/eB8uQh/Middle_Frame.jpg',
     videoUrl: 'https://youtube.com/shorts/x0CK-iDmobI?si=VnU_uSNYxlS7EcIr',
     description: 'Dynamic movement tracking.'
   },
