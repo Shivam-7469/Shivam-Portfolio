@@ -90,37 +90,37 @@ export const PROJECTS: ProjectItem[] = [
 export const PHOTOGRAPHS: Photograph[] = [
   {
     id: 'ph1',
-    url: 'https://im.ge/i/eBg8Ir"><img src="https://i.im.ge/eBg8Ir/1767755521263.jpg" alt="1767755521263',
+    url: 'https://i.im.ge/eBg8Ir/1767755521263.jpg',
     alt: 'Street photography',
     aspectRatio: 'portrait'
   },
   {
     id: 'ph2',
-    url: 'https://im.ge/i/eBggMm"><img src="https://i.im.ge/eBggMm/1767755521259.jpg" alt="1767755521259',
+    url: 'https://i.im.ge/eBggMm/1767755521259.jpg',
     alt: 'Architecture',
     aspectRatio: 'landscape'
   },
   {
     id: 'ph3',
-    url: 'https://im.ge/i/eBgREW"><img src="https://i.im.ge/eBgREW/1767755521250.jpg" alt="1767755521250',
+    url: 'https://i.im.ge/eBgREW/1767755521250.jpg',
     alt: 'Landscape',
     aspectRatio: 'landscape'
   },
   {
     id: 'ph4',
-    url: 'https://im.ge/i/eBgWJ0"><img src="https://i.im.ge/eBgWJ0/IMG_2960.jpg" alt="IMG 2960',
+    url: 'https://i.im.ge/eBgWJ0/IMG_2960.jpg',
     alt: 'Mood lighting',
     aspectRatio: 'portrait'
   },
   {
     id: 'ph5',
-    url: 'https://im.ge/i/eBgKdT"><img src="https://i.im.ge/eBgKdT/IMG_3086.jpg" alt="IMG 3086',
+    url: 'https://i.im.ge/eBgKdT/IMG_3086.jpg',
     alt: 'Moody silhouette',
     aspectRatio: 'square'
   },
   {
     id: 'ph6',
-    url: 'https://im.ge/i/eBgVNc"><img src="https://i.im.ge/eBgVNc/IMG_2959.jpg" alt="IMG 2959',
+    url: 'https://i.im.ge/eBgVNc/IMG_2959.jpg',
     alt: 'Nature',
     aspectRatio: 'portrait'
   }
