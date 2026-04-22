@@ -1,20 +1,48 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 Personal Portfolio Website
 
-# Run and deploy your AI Studio app
+This is my personal portfolio website built to showcase my projects, skills, and development work. The goal of this project is to create a clean, fast, and responsive interface that represents my abilities as a developer.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/0e6a5509-ccaf-4bc7-9b55-ff010d8c8136
+## 🔗 Live Demo
 
-## Run Locally
+👉 https://shivam-portfolio-io.vercel.app/
 
-**Prerequisites:**  Node.js
+---
+
+## 🛠️ Tech Stack
+
+* React (with TypeScript)
+* Vite
+* CSS / Custom Styling
+* Component-based architecture
+
+---
+
+## ✨ Features
+
+* Responsive design (works on mobile + desktop)
+* Modular component structure
+* Fast performance using Vite
+* Organized code with TypeScript
+* Clean UI for better user experience
+
+---
+
+## 📂 Project Structure
+
+```
+/components      → Reusable UI components  
+/pages           → Main pages of the app  
+/context         → Global state management  
+/constants.ts    → Static values  
+/types.ts        → Type definitions  
+App.tsx          → Main app component  
+index.tsx        → Entry point  
+vite.config.ts   → Vite configuration  
+```
+
+---
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+This project is built for learning and showcasing my frontend development skills using modern tools like React and TypeScript.
