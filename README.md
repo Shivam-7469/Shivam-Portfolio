@@ -7,7 +7,6 @@ This is my personal portfolio website built to showcase my projects, skills, and
 ## 🔗 Live Demo
 
 👉 https://shivam-portfolio-io.vercel.app/
-
 ---
 
 ## 🛠️ Tech Stack
@@ -41,7 +40,6 @@ App.tsx          → Main app component
 index.tsx        → Entry point  
 vite.config.ts   → Vite configuration  
 ```
-
 ---
 
 
