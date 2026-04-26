@@ -10,7 +10,6 @@ This is my personal portfolio website built to showcase my projects, skills, and
 ---
 
 ## 🛠️ Tech Stack
-
 * React (with TypeScript)
 * Vite
 * CSS / Custom Styling
