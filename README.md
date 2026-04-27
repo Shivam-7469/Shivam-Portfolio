@@ -14,7 +14,6 @@ This is my personal portfolio website built to showcase my projects, skills, and
 * Vite
 * CSS / Custom Styling
 * Component-based architecture
-
 ---
 
 ## ✨ Features
