@@ -17,13 +17,11 @@ This is my personal portfolio website built to showcase my projects, skills, and
 ---
 
 ## ✨ Features
-
 * Responsive design (works on mobile + desktop)
 * Modular component structure
 * Fast performance using Vite
 * Organized code with TypeScript
 * Clean UI for better user experience
-
 ---
 
 ## 📂 Project Structure
@@ -39,6 +37,4 @@ index.tsx        → Entry point
 vite.config.ts   → Vite configuration  
 ```
 ---
-
-
 This project is built for learning and showcasing my frontend development skills using modern tools like React and TypeScript.
