@@ -5,7 +5,7 @@ import { useContent } from '../context/ContentContext';
 
 const SERVICE_OPTIONS = [
   "Commercial",
-  "Music Video",
+  "Logo Desgin",
   "Narrative", 
   "Social Media",
   "Color Grading",
