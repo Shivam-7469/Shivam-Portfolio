@@ -3,6 +3,7 @@
 This is my personal portfolio website built to showcase my projects, skills, and development work. The goal of this project is to create a clean, fast, and responsive interface that represents my abilities as a developer.
 
 ---
+This project is built for learning and showcasing my frontend development skills using modern tools like React and TypeScript.
 
 ## 🔗 Live Demo
 
